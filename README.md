@@ -11,3 +11,5 @@ $ cd .my_configs
 $ mkdir my_program
 $ sudo mount --bind ~/.my_configs/my_program my_program
 ```
+
+Haven't really tested yet, but general idea is to run `install.sh`, source `.extras` in the standard `.bashrc` file, and then the environment should pretty much be good to go.
