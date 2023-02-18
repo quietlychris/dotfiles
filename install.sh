@@ -23,4 +23,5 @@ cargo install alacritty \
 sudo apt-get install vim \
     nmap \
     arp-scan \
-    openssh-server
+    openssh-server \
+    tree
